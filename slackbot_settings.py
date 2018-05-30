@@ -1,3 +1,3 @@
 
-API_TOKEN = "xoxb-371395065700-371535465299-JeLaykWKzSEU7diONdZRwMVj"
+API_TOKEN = "Your Token"
 DEFAULT_REPLY = "Hey, I'm from Heroku!"

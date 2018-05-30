@@ -1,1 +1,1 @@
-watsonbottset: python run.py
+watsonbottest: python run.py
